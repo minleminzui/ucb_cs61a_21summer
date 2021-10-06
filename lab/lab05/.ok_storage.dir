@@ -1,0 +1,6 @@
+'map-correct', (0, 70)
+'swap-correct', (512, 70)
+'lgk_pow-correct', (1024, 70)
+'List Mutation-correct', (1536, 70)
+'Orders of Growth-correct', (2048, 70)
+'is_prime_sqrt-correct', (2560, 70)
